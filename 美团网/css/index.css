@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	margin:40px 222px 30px ;
+}
+.title-a{
+	float:right;
+}
+.titee-head a{
+	color: #666;
+}
+.title-aa{
+float: right;
+margin-bottom: 8px;
+}
+.title-aa a{
+	color:#FE8C00;
+}
+.title-aaa{
+	margin-top: 10px;
+}
+.title-aaa a{
+	color:#FE8C00;
+}
+.grall{
+	color:#FE8C00;
+}
+.bottom{
+	margin-top: 85px;
+}
+.bottom p{
+	color:#999 ;
+}
